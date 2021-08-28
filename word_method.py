@@ -1,6 +1,6 @@
 s = 'My name is Mike. Hi Mike'
 print(s)
-is_start = s.startswith('My') #myから始まってるか調べる
+is_start = s.startswith('My') #myから始まってるか調べる(s.starteith)
 print(is_start)
 
 print('*******************')
