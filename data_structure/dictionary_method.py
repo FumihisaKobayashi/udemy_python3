@@ -32,3 +32,5 @@ d  = {'x': 10, 'y': 20}
 
 #中身確認
 'a' in d #'a'はdに入っているか  TRUE or FALSE
+print('a' in d)
+
