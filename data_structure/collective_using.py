@@ -9,4 +9,4 @@ print(my_friends & a_friends)
 f = ['apple', 'banana', 'apple', 'banana']
 kind = set(f)#重複を削除して　setで型を集合からリストに型を変える
 print(kind)
-#アプリの追加していくときにリストだが、ユニークは集合使って追加、実行する
+#アプリの追加していくときにリストだが、ユニークは集合型使って追加、実行する
