@@ -5,7 +5,7 @@ while i < len(some_list):
   print(some_list[i])
   i += 1
 
-for fruit in ['apple', 'orange', 'banana']:
+for fruit in ['apple', 'lemon', 'banana']:
   if fruit == 'orange':
     print('stop eating!')
     break #ループから抜ける
